@@ -28,3 +28,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)  -->
+
+
+
+
+
+
+
+### Day 1: 26 Feb 2022, Saturday
+
+**Today's Progress**: I started C++ programming a week before and today i continued my learning. I have learned about while loop, solved some pattern problems with while loop, bitwise operators, increment decrement operators, started for loop and solved some problems with for loop
+
+**Thoughts** I've recently started coding, and after solving some basic problems i think my concept is getting cleared and i am enjoying coding.
+
+
